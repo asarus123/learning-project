@@ -1,0 +1,5 @@
+print("Как тебя зовут?")
+name = input()
+print("Привет,", name)
+input()
+print("А не пошёл бы ты нахуй,", name)
